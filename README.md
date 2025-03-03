@@ -6,7 +6,7 @@ This repository provides a structured and transparent methodology for conducting
 ## SLR Process Flowchart
 The following flowchart illustrates the systematic workflow used for study selection:
 
-![SLR Process](Overview.png)
+![SLR Process](https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/Overview.pdf)
 
 ## Methodology
 The SLR process consists of the following key steps:
@@ -35,4 +35,4 @@ The SLR process consists of the following key steps:
 ## Final Set of Studies
 The following is the final list of selected papers that met all inclusion criteria:
 
-![Final Set](literature list.png)
+![Final Set](https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/literature%20list.png)
