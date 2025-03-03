@@ -38,7 +38,6 @@ The following is the final list of selected papers that met all inclusion criter
 ![Final Set](https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/literature%20list.png)
 
 ## License
-## License
 This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License**.
 
 For more details, visit [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
