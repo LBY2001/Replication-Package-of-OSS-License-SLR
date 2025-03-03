@@ -6,7 +6,7 @@ This repository provides a structured and transparent methodology for conducting
 ## SLR Process Flowchart
 The following flowchart illustrates the systematic workflow used for study selection:
 
-<img src="https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/Overview.png" alt="SLR Process Flowchart" width="350">
+<img src="https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/Overview.png" alt="SLR Process Flowchart" width="400">
 
 ## Methodology
 The SLR process consists of the following key steps:
@@ -41,4 +41,4 @@ The following is the final list of selected papers that met all inclusion criter
 ## License
 This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License**.
 
-For more details, see the [LICENSE](LICENSE) file or visit [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
+For more details, visit [Creative Commons](https://creativecommons.org/licenses/by-sa/4.0/).
