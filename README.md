@@ -6,9 +6,7 @@ This repository provides a structured and transparent methodology for conducting
 ## SLR Process Flowchart
 The following flowchart illustrates the systematic workflow used for study selection:
 
-<p align="center">
-    <img src="https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/Overview.png" alt="SLR Process Flowchart" width="600">
-</p>
+<img src="https://github.com/LBY2001/Replication-Package-of-OSS-License-SLR/blob/main/Overview.png" alt="SLR Process Flowchart" width="350">
 
 ## Methodology
 The SLR process consists of the following key steps:
